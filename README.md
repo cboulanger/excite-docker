@@ -1,5 +1,7 @@
 # EXcite-Docker: Tool for the annotation of training material for ML-based reference extraction and segmentation
 
+> Note: This repository is no longer maintained. Current work has shifted to https://github.com/cboulanger/anystyle-workflow
+
 This is a docker image that provides a web application to produce training
 material for two ML-based reference extraction & segmentation engines:
 
